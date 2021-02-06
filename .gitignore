@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# target
+target
+target/**
+
 # BlueJ files
 *.ctxt
 
